@@ -1,6 +1,6 @@
 # Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping
 
-Official implementation for ["Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping"](https://arxiv.org/abs/2403.08639))
+Official implementation for ["Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping"](https://arxiv.org/abs/2409.05352))
 
 ## Citing
 
