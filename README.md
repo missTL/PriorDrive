@@ -4,7 +4,7 @@ Official implementation for ["Driving with Prior Maps: Unified Vector Prior Enco
 
 ## Citing
 
-If you find PriorDrive useful in your research, please kindly consider citing the following paper.
+If you find PriorDrive is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```
 @article{zeng2024driving,
   title={Driving with Prior Maps: Unified Vector Prior Encoding for Autonomous Vehicle Mapping},
